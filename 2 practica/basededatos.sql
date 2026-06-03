@@ -1,5 +1,5 @@
-CREATE DATABASE practica2AHR;
-USE practica2AHR;
+CREATE DATABASE practica2;
+USE practica2;
 
 CREATE TABLE categorias (
     id INT AUTO_INCREMENT PRIMARY KEY,
